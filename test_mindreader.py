@@ -3,4 +3,4 @@ from mindreader import hello, choice, mindreading
 
 
 def test_choice(self):
-    assert print("Good! Let's go!") == input("gO")
+    assert choice() == "GO"

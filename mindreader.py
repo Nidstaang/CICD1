@@ -15,7 +15,7 @@ def choice():
 
         if "GO" in answer.upper():
             print("Good! Let's go!")
-            break
+            return "GO"
 
         else:
             print("What was that? Just type ''GO'' when you are ready! :)")
