@@ -5,4 +5,4 @@ from Arcane_Quest import start, intro, bedchamber
 
 
 def test_start(self):
-    
+    assert ()
