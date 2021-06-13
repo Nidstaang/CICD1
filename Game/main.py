@@ -1,6 +1,6 @@
 
 def start():
-    print(
+    return(
     """
     
         _   ___  ___   _   _  _ ___    ___   _   _ ___ ___ _____ 
@@ -8,10 +8,10 @@ def start():
       / _ \|   / (__ / _ \| .` | _|  | (_) || |_| | _|\__ \ | |  
      /_/ \_\_|_\ \___/_/ \_\_|\_|___| \__\_\ \___/|___|___/ |_|  
                                                             
-    """)
-    print("         A short adventure (in progress)")
-    print("   Based on Divinity Original Sin 2 characters by Larian Studios.")
-    print("     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\n")
+    \n
+    A short adventure (in progress)
+    Based on Divinity Original Sin 2 characters by Larian Studios.
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\n """)
 
 def intro():
     print(
