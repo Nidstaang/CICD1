@@ -1,4 +1,3 @@
-import rooms
 
 def start():
     print(
@@ -29,9 +28,7 @@ def intro():
         ...""")
     bedchamber()
 
-
-
-##############  ITEMS    
+#ITEMS    
 
 character_inventory = {}
 
