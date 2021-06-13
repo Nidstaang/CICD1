@@ -1,6 +1,8 @@
 Bidragsrapport
 
 Inledning
+
+
 Tackling this project alone has been challenging but I have learnt so much in so little time. I have started feeling more confident and prone to just keep trying and do not give up. Working hands on has really been a good experience that has made me like more what I am studying as I was able to make things actually work.
 
 The project I have developed is divided in two main things: a game and a website. The game covers the CI part with the CircleCI pipeline, and the testing and the website is where the CD happens, as the new versions of the game are deployed automatically to the website. 
